@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Natalie Agana
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently in my 3rd year at Virginia Tech studying CS
+- 🌱 I’m a recent Virginia Tech graduate from the Computer Science program
 - 💞️ I’m looking to collaborate on anything fun/interesting/full of learning oportunities
-- 📫 How to reach me (coming soon!)
+- 📫 You can reach me at npagana@me.com
 
 Languages and Technologies:
 - Java
